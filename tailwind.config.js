@@ -37,6 +37,9 @@ module.exports = {
         aqua: {
           400: "#32E0D1",
         },
+        yellow: {
+          400: "#FDB92A",
+        },
       },
       spacing: {
         "9/16": "56.25%",
@@ -86,7 +89,8 @@ module.exports = {
         98: ".98",
       },
       backgroundImage: {
-        herobgs: "url('/images/anew.webp')",
+        herobgs: "url('/images/hero.webp')",
+        trs: "url('/images/hero-transparent.webp')",
       },
       backgroundSize: {
         50: "4rem",

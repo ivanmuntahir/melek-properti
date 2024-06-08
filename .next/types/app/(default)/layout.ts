@@ -1,4 +1,4 @@
-// File: D:\Web\satyadhika\app\(default)\layout.tsx
+// File: D:\Web\melek-properti\app\(default)\layout.tsx
 import * as entry from '../../../../app/(default)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

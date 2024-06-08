@@ -13,10 +13,10 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
               <img
-                src="/images/sbf-logo.webp"
-                width={250}
-                height={250}
-                alt="SB Finance Logo"
+                src="/images/logo-melek.jpeg"
+                width={100}
+                height={100}
+                alt="Melek Properti Logo"
               />
             </Link>
           </div>

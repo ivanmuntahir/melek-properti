@@ -14,9 +14,7 @@ export default function Features() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4 text-blue-400">
-              Layanan Pembiayaan dan Jasa
-            </h2>
+            <h2 className="h2 mb-4 text-blue-400">Jenis Properti</h2>
           </div>
 
           {/* Items */}
@@ -34,19 +32,20 @@ export default function Features() {
                 style={{ display: "flex", flexDirection: "column" }}
                 className="mb-6"
               >
-                <img
-                  src="/images/layanan-1 -cropped.webp"
-                  alt="pembiayaan-investasi"
-                />
+                <img src="/images/rumah.jpg" alt="properti-rumah" />
               </div>
 
-              <h4 className="h4 mb-2 text-blue-400">Pembiayaan Investasi</h4>
+              <h4 className="h4 mb-2 text-blue-400">Properti Rumah</h4>
               <p className="text-lg text-gray-400">
-                Pembiayaan untuk pengadaan barang modal dan atau jasa untuk
-                keperluan aktivitas usaha investasi (usaha produktif): Sewa
-                pembiayaan (finance lease), jual dan sewa balik (sale and
-                leaseback), pembelian dengan pembayaran secara angsuran, dan
-                pembiayaan alat kesehatan untuk rumah sakit.
+                Melek properti memiliki berbagai pilihan rumah yang siap huni
+                khususnya di wilayah Kabupaten Gresik maupun Kota Surabaya.
+                Tentunya pilihan rumah yang ditawarkan oleh Melek Properti
+                adalah rumah pilihan dan layak huni dengan lokasi-lokasi yang
+                cukup strategis dari fasilitas umum dan lain-lain. Lingkungan
+                rumah juga menjadi hal penting bagi Melek Properti, sehingga
+                sudah dijamin rumah-rumah pilihan Melek Properti sangat
+                recomended dan harga yang ditawarkan juga variatif disesuaikan
+                dengan kebutuhan Anda.
               </p>
             </div>
             {/* 2nd item */}
@@ -66,12 +65,12 @@ export default function Features() {
                 />
               </div>
 
-              <h4 className="h4 mb-2 text-blue-400">Pembiayaan Modal Kerja</h4>
+              <h4 className="h4 mb-2 text-blue-400">Properti Apartemen</h4>
               <p className="text-lg text-gray-400">
-                Pembiayaan untuk memenuhi kebutuhan modal kerja atau pengeluaran
-                yang habis dalam satu siklus usaha (usaha produktif): Jual dan
-                sewa balik (sale and leaseback) serta anjak piutang (factoring
-                with recourse).
+                Berbagai pilihan apartemen di Melek Properti bisa anda temukan,
+                tentunya dengan harga yang sesuai dengan budget anda serta
+                faktor lainnya seperti lokasi apartemen, kondisi apartemen,
+                biaya maintenance apartemen dan lain sebagainya.
               </p>
             </div>
             {/* 3rd item */}
